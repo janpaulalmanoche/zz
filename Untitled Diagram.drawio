@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-14T16:03:04.214Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="XFSnjGSZlOu8Ckq6Loq3" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-14T16:03:56.855Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="l8livRyyytsUM93Od23G" version="14.8.6" type="github">
   <diagram id="s0kK3envSmm_vPZ5UdHi" name="Page-1">
-    <mxGraphModel dx="1724" dy="1867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1870" dy="1995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -262,6 +262,18 @@
         </mxCell>
         <mxCell id="b0UbF2IqYbmgygXNMMR_-23" value="tool_result_custom_rate_cards" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-370" y="-580" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b0UbF2IqYbmgygXNMMR_-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="b0UbF2IqYbmgygXNMMR_-26" target="b0UbF2IqYbmgygXNMMR_-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b0UbF2IqYbmgygXNMMR_-26" value="card_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="-770" width="200" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="b0UbF2IqYbmgygXNMMR_-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="b0UbF2IqYbmgygXNMMR_-28" target="b0UbF2IqYbmgygXNMMR_-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b0UbF2IqYbmgygXNMMR_-28" value="tool_result_custom_rate_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-315" y="-770" width="200" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
