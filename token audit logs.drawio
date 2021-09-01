@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-01T14:03:54.716Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="6xwbQUifB-_XUyQ8srji" version="14.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-01T14:04:12.146Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="LLzj4TgxPpHCVsssQ1YL" version="14.9.7" type="github">
   <diagram id="f-QhM9010iz9F7mc7vBk" name="Page-1">
     <mxGraphModel dx="1038" dy="1679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,8 +10,8 @@
         <mxCell id="M519DZQHmaI1ANvllGM7-1" value="invoice_item_tool_tokens" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="210" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="M519DZQHmaI1ANvllGM7-3" value="TOKEN AUTDIT LOGS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="20" width="250" height="90" as="geometry" />
+        <mxCell id="M519DZQHmaI1ANvllGM7-3" value="TOKEN AUTDIT LOGS" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-25" width="250" height="90" as="geometry" />
         </mxCell>
         <mxCell id="M519DZQHmaI1ANvllGM7-5" value="invoice_item_tool_token_logs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="210" width="170" height="80" as="geometry" />
