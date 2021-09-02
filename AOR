@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-02T06:11:20.790Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="ZbfC83sgbj-2iASDLxLG" version="15.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-02T06:31:19.421Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="pVmyU0aCL9ztflVqtAOU" version="15.0.4" type="github">
   <diagram id="M6u0sE_N_l7lw8BIiHCE" name="Page-1">
-    <mxGraphModel dx="5002" dy="3416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2071" dy="1781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -127,8 +127,8 @@
         <mxCell id="7nrEquz2yiSDh-bNaJRS-46" value="values" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="840" width="181" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7nrEquz2yiSDh-bNaJRS-49" value="&lt;div&gt;&lt;b&gt;** daily **&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;send invite base on days set and no expiry date&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;** exact date **&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;start date-end date == send invite daily until the end date set&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="-40" width="315" height="120" as="geometry" />
+        <mxCell id="7nrEquz2yiSDh-bNaJRS-52" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;** daily **&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;send invite base on days set and no expiry date&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;** exact date **&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;start date-end date == send invite daily until the end date set&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;USE THE EXISTING URLS FOR SENDING BULK INVITES FOR SMS/EMIAL&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="-50" width="629.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
