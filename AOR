@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-02T06:10:15.277Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="zMFAvS0MbvqXD2Ec_rX7" version="15.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-02T06:10:36.798Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="3PY4Idqu0fNVPDyl7LkZ" version="15.0.4" type="github">
   <diagram id="M6u0sE_N_l7lw8BIiHCE" name="Page-1">
     <mxGraphModel dx="1888" dy="1679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -47,13 +47,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7nrEquz2yiSDh-bNaJRS-12" value="&lt;table style=&quot;border-left-style: none ; border-top-style: none ; border-right-style: none ; border-bottom-style: none ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&quot;border-left-style: none ; border-top-style: none ; border-right-style: none ; border-bottom-style: none ; padding-left: 15px&quot;&gt;business_id&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="120" width="100" height="40" as="geometry" />
+          <mxGeometry x="450" y="140" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7nrEquz2yiSDh-bNaJRS-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.901;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7nrEquz2yiSDh-bNaJRS-13" target="7nrEquz2yiSDh-bNaJRS-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7nrEquz2yiSDh-bNaJRS-13" value="user_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="170" width="80" height="40" as="geometry" />
+          <mxGeometry x="433" y="190" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7nrEquz2yiSDh-bNaJRS-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.992;entryY=0.637;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7nrEquz2yiSDh-bNaJRS-16" target="7nrEquz2yiSDh-bNaJRS-5">
           <mxGeometry relative="1" as="geometry" />
@@ -122,7 +122,7 @@
           <mxGeometry x="510" y="840" width="181" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7nrEquz2yiSDh-bNaJRS-49" value="&lt;div&gt;&lt;b&gt;** daily **&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;send invite base on days set and no expiry date&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;** exact date **&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;start date-end date == send invite daily until the end date set&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="-20" width="315" height="120" as="geometry" />
+          <mxGeometry x="450" y="-40" width="315" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
