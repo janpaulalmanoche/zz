@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-03T01:26:47.789Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="sOzrAviOcWAnJh9Bfi-e" version="15.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-04T07:18:43.688Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="73UrjnHPkZJg_ZFAFLAp" version="15.0.6" type="github">
   <diagram id="M6u0sE_N_l7lw8BIiHCE" name="Page-1">
-    <mxGraphModel dx="2523" dy="2034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1888" dy="1679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,6 +33,14 @@
         </mxCell>
         <mxCell id="7nrEquz2yiSDh-bNaJRS-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="7nrEquz2yiSDh-bNaJRS-5" target="7nrEquz2yiSDh-bNaJRS-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nYdBjOyAPT-x8vFHGn0g-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7nrEquz2yiSDh-bNaJRS-5" target="7nrEquz2yiSDh-bNaJRS-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="330" />
+              <mxPoint x="971" y="330" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="7nrEquz2yiSDh-bNaJRS-5" value="scheduled_invitations" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6666FF;" parent="1" vertex="1">
           <mxGeometry x="189" y="280" width="181" height="60" as="geometry" />
@@ -130,14 +138,17 @@
         <mxCell id="7nrEquz2yiSDh-bNaJRS-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="7nrEquz2yiSDh-bNaJRS-54" target="7nrEquz2yiSDh-bNaJRS-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="nYdBjOyAPT-x8vFHGn0g-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7nrEquz2yiSDh-bNaJRS-54" target="nYdBjOyAPT-x8vFHGn0g-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7nrEquz2yiSDh-bNaJRS-54" value="scheduled_invitation_date_status" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6666FF;" parent="1" vertex="1">
           <mxGeometry x="880" y="640" width="181" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7nrEquz2yiSDh-bNaJRS-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="7nrEquz2yiSDh-bNaJRS-55" target="7nrEquz2yiSDh-bNaJRS-54" edge="1">
+        <mxCell id="7nrEquz2yiSDh-bNaJRS-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=0.186;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="7nrEquz2yiSDh-bNaJRS-55" target="7nrEquz2yiSDh-bNaJRS-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7nrEquz2yiSDh-bNaJRS-55" value="scheduled_invitation_date_id" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="830" y="480" width="200" height="50" as="geometry" />
+          <mxGeometry x="730" y="520" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7nrEquz2yiSDh-bNaJRS-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="7nrEquz2yiSDh-bNaJRS-57" target="7nrEquz2yiSDh-bNaJRS-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -216,6 +227,9 @@
         </mxCell>
         <mxCell id="7nrEquz2yiSDh-bNaJRS-101" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;on the front end,&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;you should have a selection of type (day, date)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;if day is selected show a list of like checkbox sunday,monday,tuesday,wednesday,thursday friday etc&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;and if date is selected show a date range start date and end date&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-135" y="-250" width="615" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="nYdBjOyAPT-x8vFHGn0g-2" value="scheduled_invitation_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1134.5" y="665" width="149" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
