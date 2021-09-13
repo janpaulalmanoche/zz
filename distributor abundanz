@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-13T14:01:40.722Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="4DONs0U2yX1QLTPG6kbU" version="15.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-13T14:14:13.203Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="OKCCx0yJSB1BLC0NQ9Bi" version="15.2.1" type="github">
   <diagram id="yRN_Ua4-Wc-0M4ge1mvl" name="Page-1">
     <mxGraphModel dx="2333" dy="3027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -161,6 +161,9 @@
         <mxCell id="CVIBMdzq6r6lEjq2Swb6-25" value="invoice_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="-1630" width="135" height="55" as="geometry" />
         </mxCell>
+        <mxCell id="CVIBMdzq6r6lEjq2Swb6-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="CVIBMdzq6r6lEjq2Swb6-29" target="CVIBMdzq6r6lEjq2Swb6-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CVIBMdzq6r6lEjq2Swb6-29" value="distributed_invoice_item_tool_tokens" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="275" y="-1260" width="290" height="80" as="geometry" />
         </mxCell>
@@ -168,13 +171,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CVIBMdzq6r6lEjq2Swb6-30" value="invoice_item_tool_token_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="589.64" y="-1210" width="170" height="70" as="geometry" />
+          <mxGeometry x="40" y="-1160" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CVIBMdzq6r6lEjq2Swb6-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="CVIBMdzq6r6lEjq2Swb6-32" target="CVIBMdzq6r6lEjq2Swb6-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CVIBMdzq6r6lEjq2Swb6-32" value="distributor_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="-1110" width="170" height="70" as="geometry" />
+          <mxGeometry x="275" y="-1120" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CVIBMdzq6r6lEjq2Swb6-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CVIBMdzq6r6lEjq2Swb6-34" target="CVIBMdzq6r6lEjq2Swb6-13">
           <mxGeometry relative="1" as="geometry">
@@ -186,6 +189,9 @@
         </mxCell>
         <mxCell id="CVIBMdzq6r6lEjq2Swb6-37" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;FOR THE DISTRIBUTOR.&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;MAKE A UI TO GIVE BULK TOKENS TO A RESELLER OR DISTRIBUTOR&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-180.36" y="-830" width="550.36" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CVIBMdzq6r6lEjq2Swb6-38" value="reseller_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="519.64" y="-1150" width="170" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
