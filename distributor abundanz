@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-13T13:02:02.845Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="Fs5Ned_bHb7rOa6qhonh" version="15.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-13T13:03:28.729Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="XHgmA2gCoagwA0h3CRmG" version="15.2.1" type="github">
   <diagram id="yRN_Ua4-Wc-0M4ge1mvl" name="Page-1">
-    <mxGraphModel dx="1888" dy="1679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2071" dy="1781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -112,8 +112,14 @@
         <mxCell id="CVIBMdzq6r6lEjq2Swb6-9" value="reseller_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="-770" width="95" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="CVIBMdzq6r6lEjq2Swb6-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=ERoneToMany;endFill=0;" edge="1" parent="1" source="CVIBMdzq6r6lEjq2Swb6-11" target="CVIBMdzq6r6lEjq2Swb6-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CVIBMdzq6r6lEjq2Swb6-11" value="invoices" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-180" y="-520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CVIBMdzq6r6lEjq2Swb6-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=ERoneToMany;endFill=0;" edge="1" parent="1" source="CVIBMdzq6r6lEjq2Swb6-12" target="CVIBMdzq6r6lEjq2Swb6-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CVIBMdzq6r6lEjq2Swb6-12" value="invoice_items" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="-520" width="120" height="60" as="geometry" />
@@ -141,6 +147,12 @@
         </mxCell>
         <mxCell id="CVIBMdzq6r6lEjq2Swb6-23" value="is_bought_by_distributor" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-450" y="-650" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CVIBMdzq6r6lEjq2Swb6-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="CVIBMdzq6r6lEjq2Swb6-25" target="CVIBMdzq6r6lEjq2Swb6-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CVIBMdzq6r6lEjq2Swb6-25" value="invoice_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-660" width="135" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
