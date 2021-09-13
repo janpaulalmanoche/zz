@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-13T14:00:36.177Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="0Zoz5N4q8OBXlNqdBO4E" version="15.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-13T14:00:44.250Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="0NhXvkh2YkHFsP9qFjOm" version="15.2.1" type="github">
   <diagram id="yRN_Ua4-Wc-0M4ge1mvl" name="Page-1">
     <mxGraphModel dx="2333" dy="3027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -185,7 +185,7 @@
           <mxGeometry x="410" y="-1660" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CVIBMdzq6r6lEjq2Swb6-37" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;FOR THE DISTRIBUTOR.&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;MAKE A UI TO GIVE BULK TOKENS TO A RESELLER OR DISTRIBUTOR&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-180.36" y="-1040" width="550.36" height="90" as="geometry" />
+          <mxGeometry x="-180.36" y="-830" width="550.36" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
