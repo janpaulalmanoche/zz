@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-06T14:19:05.515Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="W8_ghKZ30T776p34X7Nm" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-06T14:19:38.573Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="Ve9mENJQ7MTTzLPvfXTv" version="15.4.1" type="github">
   <diagram id="yRN_Ua4-Wc-0M4ge1mvl" name="Page-1">
-    <mxGraphModel dx="2071" dy="2881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2333" dy="3027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -277,7 +277,7 @@
           <mxGeometry x="-200" y="-1910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RaugkZ9txGH21LpEGMNM-3" value="user_users&lt;br&gt;are the bottom part of the leve, they are just single/individual users, the basic user" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-447.5" y="-1990" width="175" height="100" as="geometry" />
+          <mxGeometry x="-560" y="-1950" width="175" height="100" as="geometry" />
         </mxCell>
         <mxCell id="RaugkZ9txGH21LpEGMNM-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RaugkZ9txGH21LpEGMNM-4" target="RaugkZ9txGH21LpEGMNM-1">
           <mxGeometry relative="1" as="geometry" />
@@ -305,6 +305,12 @@
         </mxCell>
         <mxCell id="RaugkZ9txGH21LpEGMNM-13" value="notes. the distributor and reseller is now the same." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="-2160" width="175" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="RaugkZ9txGH21LpEGMNM-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RaugkZ9txGH21LpEGMNM-14" target="RaugkZ9txGH21LpEGMNM-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RaugkZ9txGH21LpEGMNM-14" value="reseller_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="-2080" width="95" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
