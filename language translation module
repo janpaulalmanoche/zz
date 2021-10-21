@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T09:21:54.791Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="t-DlCMcONy0PTZF4KKd4" version="15.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-21T09:22:32.456Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="5yYzoHZdXunx5zi-A9kR" version="15.5.2" type="github">
   <diagram id="UC6z5xwxX8mZwxFKYZXi" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -9,6 +9,9 @@
         </mxCell>
         <mxCell id="zCfhnFCys7iJWFm3t2u1-3" value="&lt;b&gt;table that has a migrated commands to newly format data&lt;br&gt;1. tools&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="142" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zCfhnFCys7iJWFm3t2u1-5" value="&lt;b&gt;functions that are adjusted to fir the transalations&lt;/b&gt;&lt;br&gt;&lt;b&gt;1. saving of tools route http://abundanz-zoom.co/admin/settings/tools/create&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="200" width="610" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
