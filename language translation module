@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T09:37:36.352Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="S4qv6U1-tUG2dtaP9pFB" version="15.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-21T10:35:19.216Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="RIhZti17bYzB2A9pnDha" version="15.5.2" type="github">
   <diagram id="UC6z5xwxX8mZwxFKYZXi" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="zCfhnFCys7iJWFm3t2u1-2" value="&lt;span&gt;notes on deploying the language translation module&lt;/span&gt;&lt;br&gt;&lt;span&gt;1. comment out first the HasTranslation trait&lt;/span&gt;&lt;br&gt;&lt;span&gt;2. run the commands to migrate old data on the database to the newly format example {&quot;en&quot;:&quot;Carrer values&quot;&lt;/span&gt;&lt;span&gt;},&lt;/span&gt;&lt;br&gt;&lt;span&gt;&amp;nbsp;so it can be read by the transaltion package&lt;br&gt;3. you can now uncomment the HasTranslation trait on the models that will be affected by the translation&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="15" y="12" width="820" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="zCfhnFCys7iJWFm3t2u1-3" value="&lt;b&gt;table that has a migrated commands to newly format data&lt;br&gt;1. tools&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="zCfhnFCys7iJWFm3t2u1-3" value="&lt;b&gt;table that has a migrated commands to newly format data&lt;br&gt;1. tools command php artisan translate:tool_to_en&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="142" width="440" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zCfhnFCys7iJWFm3t2u1-5" value="&lt;b&gt;functions that are adjusted to fir the transalations&lt;br&gt;&lt;br&gt;TOOLS&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;1. saving of tools route http://abundanz-zoom.co/admin/settings/tools/create&lt;/b&gt;&lt;br&gt;&lt;b&gt;2. updating of tools is working&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
