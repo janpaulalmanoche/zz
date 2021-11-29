@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-29T11:53:50.668Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="NCfe3DV2g-FoxKNiv76j" version="15.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-29T14:35:31.941Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="HWg9SHKl6AEEmZEZWUDQ" version="15.8.6" type="github">
   <diagram id="kar3vyS12sgQTYsgrsxM" name="Page-1">
     <mxGraphModel dx="2333" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -46,21 +46,20 @@
         <mxCell id="u9joneSlGGYFTYJrx8sh-17" value="&lt;div style=&quot;text-align: left&quot;&gt;NOTE on implementing types of discount on front end&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;* each type of discount strategies should have each own function on the front end&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;* ex&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;* after axios call, check its type, if type is min_max used the function min_max created on the blade file&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;and use it to calculate the discount&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;* so when there is a new added type on the database, you should also add a new custom function on the blade file on front end to calculate its discount&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="70" y="340" width="600" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8wsj7iN9lhSrUJAxLuZD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=ERmandOne;endFill=0;strokeColor=default;startArrow=ERmandOne;startFill=0;" edge="1" parent="1" source="8wsj7iN9lhSrUJAxLuZD-1" target="u9joneSlGGYFTYJrx8sh-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="8wsj7iN9lhSrUJAxLuZD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.597;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=ERmandOne;startFill=0;endArrow=ERmandOne;endFill=0;strokeColor=default;" edge="1" parent="1" source="8wsj7iN9lhSrUJAxLuZD-1" target="u9joneSlGGYFTYJrx8sh-2">
+        <mxCell id="8wsj7iN9lhSrUJAxLuZD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.563;exitY=0.997;exitDx=0;exitDy=0;entryX=0.597;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=ERmandOne;startFill=0;endArrow=ERmandOne;endFill=0;strokeColor=default;exitPerimeter=0;" parent="1" source="e0jUxMu2YsF5jDYow5DT-1" target="u9joneSlGGYFTYJrx8sh-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="-315" y="135" />
               <mxPoint x="-315" y="600" />
               <mxPoint x="680" y="600" />
               <mxPoint x="680" y="320" />
               <mxPoint x="711" y="320" />
             </Array>
+            <mxPoint x="-315" y="300" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8wsj7iN9lhSrUJAxLuZD-1" value="&lt;b&gt;active_&lt;/b&gt;&lt;b&gt;discount_product_strategy_type&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-500" y="190" width="370" height="110" as="geometry" />
+        <mxCell id="e0jUxMu2YsF5jDYow5DT-1" value="&lt;b&gt;products&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="25" width="370" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
